@@ -101,7 +101,6 @@ header {
 #readability {
     grid-area: readability; /* keep */
     background: #d2f4ff; /* keep */
-    padding top: 5rem;
     padding-left: 2rem;
 
 }
@@ -171,7 +170,7 @@ a:hover {
 }
 
 
-}
+
 
 #bobwhite-quail{
   padding: 1rem;
@@ -200,8 +199,5 @@ margin: 0;
 #footer{
   padding: 1;
 }
-
-
-
 
 }
